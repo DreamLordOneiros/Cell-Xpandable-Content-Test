@@ -1,0 +1,471 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		627702D7198162EE00659151 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 627702D6198162EE00659151 /* Foundation.framework */; };
+		627702D9198162EE00659151 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 627702D8198162EE00659151 /* CoreGraphics.framework */; };
+		627702DB198162EE00659151 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 627702DA198162EE00659151 /* UIKit.framework */; };
+		627702E1198162EE00659151 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 627702DF198162EE00659151 /* InfoPlist.strings */; };
+		627702E3198162EE00659151 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 627702E2198162EE00659151 /* main.m */; };
+		627702E7198162EE00659151 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 627702E6198162EE00659151 /* AppDelegate.m */; };
+		627702EA198162EE00659151 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 627702E8198162EE00659151 /* Main.storyboard */; };
+		627702ED198162EE00659151 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 627702EC198162EE00659151 /* ViewController.m */; };
+		627702EF198162EE00659151 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 627702EE198162EE00659151 /* Images.xcassets */; };
+		627702F6198162EE00659151 /* XCTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 627702F5198162EE00659151 /* XCTest.framework */; };
+		627702F7198162EE00659151 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 627702D6198162EE00659151 /* Foundation.framework */; };
+		627702F8198162EE00659151 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 627702DA198162EE00659151 /* UIKit.framework */; };
+		62770300198162EE00659151 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 627702FE198162EE00659151 /* InfoPlist.strings */; };
+		62770302198162EE00659151 /* Cell_Xpandable_Content_TestTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 62770301198162EE00659151 /* Cell_Xpandable_Content_TestTests.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		627702F9198162EE00659151 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 627702CB198162EE00659151 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 627702D2198162EE00659151;
+			remoteInfo = "Cell Xpandable Content Test";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		627702D3198162EE00659151 /* Cell Xpandable Content Test.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Cell Xpandable Content Test.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		627702D6198162EE00659151 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		627702D8198162EE00659151 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		627702DA198162EE00659151 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		627702DE198162EE00659151 /* Cell Xpandable Content Test-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Cell Xpandable Content Test-Info.plist"; sourceTree = "<group>"; };
+		627702E0198162EE00659151 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		627702E2198162EE00659151 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		627702E4198162EE00659151 /* Cell Xpandable Content Test-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Cell Xpandable Content Test-Prefix.pch"; sourceTree = "<group>"; };
+		627702E5198162EE00659151 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		627702E6198162EE00659151 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		627702E9198162EE00659151 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		627702EB198162EE00659151 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		627702EC198162EE00659151 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		627702EE198162EE00659151 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		627702F4198162EE00659151 /* Cell Xpandable Content TestTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Cell Xpandable Content TestTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		627702F5198162EE00659151 /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
+		627702FD198162EE00659151 /* Cell Xpandable Content TestTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Cell Xpandable Content TestTests-Info.plist"; sourceTree = "<group>"; };
+		627702FF198162EE00659151 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		62770301198162EE00659151 /* Cell_Xpandable_Content_TestTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Cell_Xpandable_Content_TestTests.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		627702D0198162EE00659151 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				627702D9198162EE00659151 /* CoreGraphics.framework in Frameworks */,
+				627702DB198162EE00659151 /* UIKit.framework in Frameworks */,
+				627702D7198162EE00659151 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		627702F1198162EE00659151 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				627702F6198162EE00659151 /* XCTest.framework in Frameworks */,
+				627702F8198162EE00659151 /* UIKit.framework in Frameworks */,
+				627702F7198162EE00659151 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		627702CA198162EE00659151 = {
+			isa = PBXGroup;
+			children = (
+				627702DC198162EE00659151 /* Cell Xpandable Content Test */,
+				627702FB198162EE00659151 /* Cell Xpandable Content TestTests */,
+				627702D5198162EE00659151 /* Frameworks */,
+				627702D4198162EE00659151 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		627702D4198162EE00659151 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				627702D3198162EE00659151 /* Cell Xpandable Content Test.app */,
+				627702F4198162EE00659151 /* Cell Xpandable Content TestTests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		627702D5198162EE00659151 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				627702D6198162EE00659151 /* Foundation.framework */,
+				627702D8198162EE00659151 /* CoreGraphics.framework */,
+				627702DA198162EE00659151 /* UIKit.framework */,
+				627702F5198162EE00659151 /* XCTest.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		627702DC198162EE00659151 /* Cell Xpandable Content Test */ = {
+			isa = PBXGroup;
+			children = (
+				627702E5198162EE00659151 /* AppDelegate.h */,
+				627702E6198162EE00659151 /* AppDelegate.m */,
+				627702E8198162EE00659151 /* Main.storyboard */,
+				627702EB198162EE00659151 /* ViewController.h */,
+				627702EC198162EE00659151 /* ViewController.m */,
+				627702EE198162EE00659151 /* Images.xcassets */,
+				627702DD198162EE00659151 /* Supporting Files */,
+			);
+			path = "Cell Xpandable Content Test";
+			sourceTree = "<group>";
+		};
+		627702DD198162EE00659151 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				627702DE198162EE00659151 /* Cell Xpandable Content Test-Info.plist */,
+				627702DF198162EE00659151 /* InfoPlist.strings */,
+				627702E2198162EE00659151 /* main.m */,
+				627702E4198162EE00659151 /* Cell Xpandable Content Test-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		627702FB198162EE00659151 /* Cell Xpandable Content TestTests */ = {
+			isa = PBXGroup;
+			children = (
+				62770301198162EE00659151 /* Cell_Xpandable_Content_TestTests.m */,
+				627702FC198162EE00659151 /* Supporting Files */,
+			);
+			path = "Cell Xpandable Content TestTests";
+			sourceTree = "<group>";
+		};
+		627702FC198162EE00659151 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				627702FD198162EE00659151 /* Cell Xpandable Content TestTests-Info.plist */,
+				627702FE198162EE00659151 /* InfoPlist.strings */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		627702D2198162EE00659151 /* Cell Xpandable Content Test */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 62770305198162EE00659151 /* Build configuration list for PBXNativeTarget "Cell Xpandable Content Test" */;
+			buildPhases = (
+				627702CF198162EE00659151 /* Sources */,
+				627702D0198162EE00659151 /* Frameworks */,
+				627702D1198162EE00659151 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Cell Xpandable Content Test";
+			productName = "Cell Xpandable Content Test";
+			productReference = 627702D3198162EE00659151 /* Cell Xpandable Content Test.app */;
+			productType = "com.apple.product-type.application";
+		};
+		627702F3198162EE00659151 /* Cell Xpandable Content TestTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 62770308198162EE00659151 /* Build configuration list for PBXNativeTarget "Cell Xpandable Content TestTests" */;
+			buildPhases = (
+				627702F0198162EE00659151 /* Sources */,
+				627702F1198162EE00659151 /* Frameworks */,
+				627702F2198162EE00659151 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				627702FA198162EE00659151 /* PBXTargetDependency */,
+			);
+			name = "Cell Xpandable Content TestTests";
+			productName = "Cell Xpandable Content TestTests";
+			productReference = 627702F4198162EE00659151 /* Cell Xpandable Content TestTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		627702CB198162EE00659151 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0510;
+				ORGANIZATIONNAME = Chanti...;
+				TargetAttributes = {
+					627702F3198162EE00659151 = {
+						TestTargetID = 627702D2198162EE00659151;
+					};
+				};
+			};
+			buildConfigurationList = 627702CE198162EE00659151 /* Build configuration list for PBXProject "Cell Xpandable Content Test" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 627702CA198162EE00659151;
+			productRefGroup = 627702D4198162EE00659151 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				627702D2198162EE00659151 /* Cell Xpandable Content Test */,
+				627702F3198162EE00659151 /* Cell Xpandable Content TestTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		627702D1198162EE00659151 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				627702EF198162EE00659151 /* Images.xcassets in Resources */,
+				627702E1198162EE00659151 /* InfoPlist.strings in Resources */,
+				627702EA198162EE00659151 /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		627702F2198162EE00659151 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				62770300198162EE00659151 /* InfoPlist.strings in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		627702CF198162EE00659151 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				627702ED198162EE00659151 /* ViewController.m in Sources */,
+				627702E7198162EE00659151 /* AppDelegate.m in Sources */,
+				627702E3198162EE00659151 /* main.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		627702F0198162EE00659151 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				62770302198162EE00659151 /* Cell_Xpandable_Content_TestTests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		627702FA198162EE00659151 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 627702D2198162EE00659151 /* Cell Xpandable Content Test */;
+			targetProxy = 627702F9198162EE00659151 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		627702DF198162EE00659151 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				627702E0198162EE00659151 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		627702E8198162EE00659151 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				627702E9198162EE00659151 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		627702FE198162EE00659151 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				627702FF198162EE00659151 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		62770303198162EE00659151 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		62770304198162EE00659151 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				ENABLE_NS_ASSERTIONS = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		62770306198162EE00659151 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Cell Xpandable Content Test/Cell Xpandable Content Test-Prefix.pch";
+				INFOPLIST_FILE = "Cell Xpandable Content Test/Cell Xpandable Content Test-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		62770307198162EE00659151 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Cell Xpandable Content Test/Cell Xpandable Content Test-Prefix.pch";
+				INFOPLIST_FILE = "Cell Xpandable Content Test/Cell Xpandable Content Test-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+		62770309198162EE00659151 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/Cell Xpandable Content Test.app/Cell Xpandable Content Test";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+					"$(DEVELOPER_FRAMEWORKS_DIR)",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Cell Xpandable Content Test/Cell Xpandable Content Test-Prefix.pch";
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = "Cell Xpandable Content TestTests/Cell Xpandable Content TestTests-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUNDLE_LOADER)";
+				WRAPPER_EXTENSION = xctest;
+			};
+			name = Debug;
+		};
+		6277030A198162EE00659151 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/Cell Xpandable Content Test.app/Cell Xpandable Content Test";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+					"$(DEVELOPER_FRAMEWORKS_DIR)",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Cell Xpandable Content Test/Cell Xpandable Content Test-Prefix.pch";
+				INFOPLIST_FILE = "Cell Xpandable Content TestTests/Cell Xpandable Content TestTests-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUNDLE_LOADER)";
+				WRAPPER_EXTENSION = xctest;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		627702CE198162EE00659151 /* Build configuration list for PBXProject "Cell Xpandable Content Test" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				62770303198162EE00659151 /* Debug */,
+				62770304198162EE00659151 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		62770305198162EE00659151 /* Build configuration list for PBXNativeTarget "Cell Xpandable Content Test" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				62770306198162EE00659151 /* Debug */,
+				62770307198162EE00659151 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		62770308198162EE00659151 /* Build configuration list for PBXNativeTarget "Cell Xpandable Content TestTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				62770309198162EE00659151 /* Debug */,
+				6277030A198162EE00659151 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 627702CB198162EE00659151 /* Project object */;
+}
