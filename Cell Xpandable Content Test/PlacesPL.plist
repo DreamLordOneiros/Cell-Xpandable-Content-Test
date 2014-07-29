@@ -1,0 +1,545 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hotels</key>
+	<array>
+		<dict>
+			<key>webdata</key>
+			<string>http://www.villaganz.com/</string>
+			<key>lat</key>
+			<string>-103.372319</string>
+			<key>lon</key>
+			<string>20.673965</string>
+			<key>rate</key>
+			<string>5</string>
+			<key>phone</key>
+			<string>01 33 3120 1416</string>
+			<key>address</key>
+			<string>Lopez Cotilla 1739, Col. Lafayette, Guadalajara 44140</string>
+			<key>name</key>
+			<string>Villa Ganz</string>
+		</dict>
+		<dict>
+			<key>webdata</key>
+			<string>http://www.lamansiondelsol.com/</string>
+			<key>lat</key>
+			<string>-103.408312</string>
+			<key>lon</key>
+			<string>20.651105</string>
+			<key>rate</key>
+			<string>5</string>
+			<key>phone</key>
+			<string>52 33 3647 4762</string>
+			<key>address</key>
+			<string>Av Moctezuma 1596, Ciudad del Sol, Guadalajara 45050</string>
+			<key>name</key>
+			<string>La Mansion del Sol</string>
+		</dict>
+		<dict>
+			<key>webdata</key>
+			<string>https://www.nh-hotels.com</string>
+			<key>lat</key>
+			<string>-103.376359</string>
+			<key>lon</key>
+			<string>20.701714</string>
+			<key>rate</key>
+			<string>4.5</string>
+			<key>phone</key>
+			<string>34 913 98 46 38</string>
+			<key>address</key>
+			<string>Sao Paulo 2334, Col. Providencia, Guadalajara 44630</string>
+			<key>name</key>
+			<string>NH Guadalajara</string>
+		</dict>
+		<dict>
+			<key>webdata</key>
+			<string>http://hamptoninn3.hilton.com/</string>
+			<key>lat</key>
+			<string>-103.396954</string>
+			<key>lon</key>
+			<string>20.659568</string>
+			<key>rate</key>
+			<string>4.5</string>
+			<key>phone</key>
+			<string>855-271-3622</string>
+			<key>address</key>
+			<string>Av. De las Rosas No. 3030 &amp; Av. Lope, Guadalajara 44500</string>
+			<key>name</key>
+			<string>Hampton Inn by Hilton Guadalajara/Expo</string>
+		</dict>
+		<dict>
+			<key>webdata</key>
+			<string>http://www.fiestamericanagrand.com/</string>
+			<key>lat</key>
+			<string>-103.376576</string>
+			<key>lon</key>
+			<string>20.703175</string>
+			<key>rate</key>
+			<string>4.5</string>
+			<key>phone</key>
+			<string>1800.343.7821</string>
+			<key>address</key>
+			<string>Avenida Americas 1551, Guadalajara 23410</string>
+			<key>name</key>
+			<string>Fiesta Americana Grand Guadalajara Country Club</string>
+		</dict>
+		<dict>
+			<key>webdata</key>
+			<string>http://www.hotelmorales.com.mx/</string>
+			<key>lat</key>
+			<string>-103.346078</string>
+			<key>lon</key>
+			<string>20.673256</string>
+			<key>rate</key>
+			<string>4.5</string>
+			<key>phone</key>
+			<string>52 33 3658 5232</string>
+			<key>address</key>
+			<string>Avenida Ramon Corona 243, Guadalajara 44100</string>
+			<key>name</key>
+			<string>Hotel Morales Historical &amp; Colonial Downtown Core</string>
+		</dict>
+		<dict>
+			<key>webdata</key>
+			<string>http://www.starwoodhotels.com/</string>
+			<key>lat</key>
+			<string>-103.375807</string>
+			<key>lon</key>
+			<string>20.706127</string>
+			<key>rate</key>
+			<string>4.5</string>
+			<key>phone</key>
+			<string>52 33 1598 8800</string>
+			<key>address</key>
+			<string>Av. de las Americas 1528, Colonia Country Club, Guadalajara 44637</string>
+			<key>name</key>
+			<string>Aloft Guadalajara</string>
+		</dict>
+		<dict>
+			<key>webdata</key>
+			<string>http://www.starwoodhotels.com/</string>
+			<key>lat</key>
+			<string>-103.389025</string>
+			<key>lon</key>
+			<string>20.653128</string>
+			<key>rate</key>
+			<string>4</string>
+			<key>phone</key>
+			<string>52 33 3880 2700</string>
+			<key>address</key>
+			<string>Avenida de las Rosas 2911, Guadalajara 44530</string>
+			<key>name</key>
+			<string>The Westin Guadalajara</string>
+		</dict>
+		<dict>
+			<key>webdata</key>
+			<string>http://www.ramada.com/</string>
+			<key>lat</key>
+			<string>-103.448760</string>
+			<key>lon</key>
+			<string>20.587524</string>
+			<key>rate</key>
+			<string>4</string>
+			<key>phone</key>
+			<string>52 33 3898 6000</string>
+			<key>address</key>
+			<string>1710 Lopez Mateos Sur Ave, Guadalajara 45645</string>
+			<key>name</key>
+			<string>Ramada Encore Guadalajara</string>
+		</dict>
+		<dict>
+			<key>webdata</key>
+			<string>http://www.victoriaexpress.com.mx/</string>
+			<key>lat</key>
+			<string>-103.394819</string>
+			<key>lon</key>
+			<string>20.663639</string>
+			<key>rate</key>
+			<string>4</string>
+			<key>phone</key>
+			<string>52 33 3770 6400</string>
+			<key>address</key>
+			<string>Av. Adolfo Lopez Mateos #1360, Colonia Chapalita Sur, Guadalajara 44510
+Chapalita Sur
+Av. Adolfo Lopez Mateos #1360, Colonia Chapalita Sur, Guadalajara 44510</string>
+			<key>name</key>
+			<string>Victoria Ejecutivo Guadalajara</string>
+		</dict>
+	</array>
+	<key>restaurants</key>
+	<array>
+		<dict>
+			<key>webdata</key>
+			<string>http://www.suehiro.com.mx/</string>
+			<key>lat</key>
+			<string>-103.362993</string>
+			<key>lon</key>
+			<string>20.670833</string>
+			<key>rate</key>
+			<string>5</string>
+			<key>phone</key>
+			<string>52 33 3826 0094</string>
+			<key>address</key>
+			<string>Avenida de la Paz # 1701, Moderna 44190 Guadalajara</string>
+			<key>name</key>
+			<string>Suehiro</string>
+		</dict>
+		<dict>
+			<key>webdata</key>
+			<string>http://alariz.com.mx/</string>
+			<key>lat</key>
+			<string>-103.379466</string>
+			<key>lon</key>
+			<string>20.693316</string>
+			<key>rate</key>
+			<string>5</string>
+			<key>phone</key>
+			<string>52 33 3146 3932</string>
+			<key>address</key>
+			<string>Calle Florencia 2818, Guadalajara 44647</string>
+			<key>name</key>
+			<string>La Artesanal</string>
+		</dict>
+		<dict>
+			<key>webdata</key>
+			<string>http://www.pigspearls.com/</string>
+			<key>lat</key>
+			<string>-103.365250</string>
+			<key>lon</key>
+			<string>20.677398</string>
+			<key>rate</key>
+			<string>5</string>
+			<key>phone</key>
+			<string>52 33 3825 5933</string>
+			<key>address</key>
+			<string>General Coronado 79, Guadalajara 44600</string>
+			<key>name</key>
+			<string>Pig&apos;s Pearls</string>
+		</dict>
+		<dict>
+			<key>webdata</key>
+			<string>http://www.latequila.com/</string>
+			<key>lat</key>
+			<string>-103.380548</string>
+			<key>lon</key>
+			<string>20.679252</string>
+			<key>rate</key>
+			<string>5</string>
+			<key>phone</key>
+			<string>3336403440</string>
+			<key>address</key>
+			<string>Avenida Mexico #2830, Colonia Ladron de Guevara, Guadalajara 44600</string>
+			<key>name</key>
+			<string>La Tequila</string>
+		</dict>
+		<dict>
+			<key>webdata</key>
+			<string></string>
+			<key>lat</key>
+			<string>-103.435673</string>
+			<key>lon</key>
+			<string>20.680700</string>
+			<key>rate</key>
+			<string>5</string>
+			<key>phone</key>
+			<string>52 33 1657 1304</string>
+			<key>address</key>
+			<string>Calle Independencia 44 Sta Maria Del Pueblito Zapopan, Guadalajara 45018</string>
+			<key>name</key>
+			<string>Ceviches Mariscos Pina</string>
+		</dict>
+		<dict>
+			<key>webdata</key>
+			<string>http://www.lamansiondelsol.com/</string>
+			<key>lat</key>
+			<string>-103.379850</string>
+			<key>lon</key>
+			<string>20.672564</string>
+			<key>rate</key>
+			<string>5</string>
+			<key>phone</key>
+			<string>52 33 3615 7852</string>
+			<key>address</key>
+			<string>Lope de Vega 135, Guadalajara 44133</string>
+			<key>name</key>
+			<string>Tres &amp; More</string>
+		</dict>
+		<dict>
+			<key>webdata</key>
+			<string>http://www.sagrantino.mx/</string>
+			<key>lat</key>
+			<string>-103.395589</string>
+			<key>lon</key>
+			<string>20.681658</string>
+			<key>rate</key>
+			<string>5</string>
+			<key>phone</key>
+			<string>33 38131379</string>
+			<key>address</key>
+			<string>Golfo de Cortes 4152, Guadalajara 44670</string>
+			<key>name</key>
+			<string>Sagrantino</string>
+		</dict>
+		<dict>
+			<key>webdata</key>
+			<string>http://elentre2.wordpress.com/</string>
+			<key>lat</key>
+			<string>-103.378524</string>
+			<key>lon</key>
+			<string>20.672900</string>
+			<key>rate</key>
+			<string>5</string>
+			<key>phone</key>
+			<string>52 33 36306335</string>
+			<key>address</key>
+			<string>Calderon de la Barca 119, Andador Lopez Cotilla, Barrio Lafayette, Guadalajara 44130</string>
+			<key>name</key>
+			<string>Entre 2</string>
+		</dict>
+		<dict>
+			<key>webdata</key>
+			<string>http://www.barocco.com.mx/</string>
+			<key>lat</key>
+			<string>-103.376056</string>
+			<key>lon</key>
+			<string>20.676946</string>
+			<key>rate</key>
+			<string>5</string>
+			<key>phone</key>
+			<string>52 36156581</string>
+			<key>address</key>
+			<string>Aurelio L. Gallardo #68. Col. Ladron de Guevara, Guadalajara 44600</string>
+			<key>name</key>
+			<string>Barocco - Beer, Wine, Pizza</string>
+		</dict>
+		<dict>
+			<key>webdata</key>
+			<string></string>
+			<key>lat</key>
+			<string>-103.356351</string>
+			<key>lon</key>
+			<string>20.680215</string>
+			<key>rate</key>
+			<string>5</string>
+			<key>phone</key>
+			<string>52 33 3827-0917</string>
+			<key>address</key>
+			<string> Jesus 251, Guadalajara, Mexico</string>
+			<key>name</key>
+			<string>La Fonda de la Noche</string>
+		</dict>
+		<dict>
+			<key>webdata</key>
+			<string>http://www.anita-li.com/</string>
+			<key>lat</key>
+			<string>-103.391651</string>
+			<key>lon</key>
+			<string>20.671735</string>
+			<key>rate</key>
+			<string>5</string>
+			<key>phone</key>
+			<string>52 33 3647 4757</string>
+			<key>address</key>
+			<string>Avenida Inglaterra 3100 Vallarta Poniente, 44110 Guadalajara</string>
+			<key>name</key>
+			<string>Anita Li</string>
+		</dict>
+		<dict>
+			<key>webdata</key>
+			<string>http://www.lulabistro.com/</string>
+			<key>lat</key>
+			<string>-103.391011</string>
+			<key>lon</key>
+			<string>20.669940</string>
+			<key>rate</key>
+			<string>5</string>
+			<key>phone</key>
+			<string>52 33 3647 6423</string>
+			<key>address</key>
+			<string>San Gabriel # 3030, Colonia Vallarta Sur, Guadalajara 44500</string>
+			<key>name</key>
+			<string>Lula Bistro</string>
+		</dict>
+		<dict>
+			<key>webdata</key>
+			<string>http://www.laartesanal.com/</string>
+			<key>lat</key>
+			<string>-103.375994</string>
+			<key>lon</key>
+			<string>20.689204</string>
+			<key>rate</key>
+			<string>5</string>
+			<key>phone</key>
+			<string>52 33 3615 6356</string>
+			<key>address</key>
+			<string>Jesus Garcia 2347, Esquina Aurelio L. Gallardo, Guadalajara 446000</string>
+			<key>name</key>
+			<string>La Artesanal</string>
+		</dict>
+	</array>
+	<key>places</key>
+	<array>
+		<dict>
+			<key>webdata</key>
+			<string>http://www.hospiciocabanas.com/</string>
+			<key>lat</key>
+			<string>-103.337329</string>
+			<key>lon</key>
+			<string>20.676922</string>
+			<key>rate</key>
+			<string>5</string>
+			<key>phone</key>
+			<string>52 33 36176734</string>
+			<key>address</key>
+			<string>Hospicio 8, Colonia Centro, Guadalajara 44100</string>
+			<key>name</key>
+			<string>Instituto Cultural Cabanas</string>
+		</dict>
+		<dict>
+			<key>webdata</key>
+			<string></string>
+			<key>lat</key>
+			<string>-103.358944</string>
+			<key>lon</key>
+			<string>20.673599</string>
+			<key>rate</key>
+			<string>4.5</string>
+			<key>phone</key>
+			<string>52 33 3825 3410</string>
+			<key>address</key>
+			<string>Av López Cotilla # 935, Centro 44100 Guadalajara</string>
+			<key>name</key>
+			<string>La Mansion del Sol</string>
+		</dict>
+		<dict>
+			<key>webdata</key>
+			<string>http://www.sic.gob.mx/ficha.php?table=teatro&amp;table_id=381</string>
+			<key>lat</key>
+			<string>-103.344415</string>
+			<key>lon</key>
+			<string>20.677025</string>
+			<key>rate</key>
+			<string>4.5</string>
+			<key>phone</key>
+			<string>52 33 3030 9770</string>
+			<key>address</key>
+			<string>Av. Hidalgo y Morelos, Zona Centro, Guadalajara 44100</string>
+			<key>name</key>
+			<string>Teatro Degollado</string>
+		</dict>
+		<dict>
+			<key>webdata</key>
+			<string>http://www.bosquecolomos.org.mx/</string>
+			<key>lat</key>
+			<string>-103.394656</string>
+			<key>lon</key>
+			<string>20.708252</string>
+			<key>rate</key>
+			<string>5</string>
+			<key>phone</key>
+			<string>36413793, 36413804, 36413727 - Ext. 101</string>
+			<key>address</key>
+			<string>El Chaco # 3200, Colinas de San Javier, Zapopan</string>
+			<key>name</key>
+			<string>Bosque Colomos</string>
+		</dict>
+		<dict>
+			<key>webdata</key>
+			<string>http://arquidiocesisgdl.org.mx/ArteSacro/Catedral</string>
+			<key>lat</key>
+			<string>-103.346973</string>
+			<key>lon</key>
+			<string>20.677014</string>
+			<key>rate</key>
+			<string>5</string>
+			<key>phone</key>
+			<string>52 33 3614 5504</string>
+			<key>address</key>
+			<string>Av. Alcalde, between Av. Hidalgo and Calle Morelos, Guadalajara</string>
+			<key>name</key>
+			<string>Catedral</string>
+		</dict>
+		<dict>
+			<key>webdata</key>
+			<string>http://www.zooguadalajara.com.mx/</string>
+			<key>lat</key>
+			<string>-103.306972</string>
+			<key>lon</key>
+			<string>20.728840</string>
+			<key>rate</key>
+			<string>4.5</string>
+			<key>phone</key>
+			<string>52 33 3674 4488</string>
+			<key>address</key>
+			<string>Paseo del Zoologico # 600, Huentitán el Alto, Guadalajara 44100</string>
+			<key>name</key>
+			<string>Zoologico Guadalajara</string>
+		</dict>
+		<dict>
+			<key>webdata</key>
+			<string>http://www.inah.gob.mx/</string>
+			<key>lat</key>
+			<string>-103.839726</string>
+			<key>lon</key>
+			<string>20.697131</string>
+			<key>rate</key>
+			<string>4.5</string>
+			<key>phone</key>
+			<string>52 33 3668 1600</string>
+			<key>address</key>
+			<string>Carretera Estatal # 604 Guadalajara-San Marcos km 56, Gral. Lucio Blanco, 46762 Teuchitlán, Jalisco</string>
+			<key>name</key>
+			<string>Guachimontones Pyramids</string>
+		</dict>
+		<dict>
+			<key>webdata</key>
+			<string>http://vive.guadalajara.gob.mx/</string>
+			<key>lat</key>
+			<string>-103.392143</string>
+			<key>lon</key>
+			<string>20.721266</string>
+			<key>rate</key>
+			<string>4.5</string>
+			<key>phone</key>
+			<string>52 33 3633 6614</string>
+			<key>address</key>
+			<string>Av Hidalgo at Calle Morelos, Guadalajara 45100</string>
+			<key>name</key>
+			<string>Basilica de Zapopan</string>
+		</dict>
+		<dict>
+			<key>webdata</key>
+			<string></string>
+			<key>lat</key>
+			<string>-103.566957</string>
+			<key>lon</key>
+			<string>20.625482</string>
+			<key>rate</key>
+			<string>4.5</string>
+			<key>phone</key>
+			<string></string>
+			<key>address</key>
+			<string>Km 20 Carretera a Tepic, Guadalajara</string>
+			<key>name</key>
+			<string>Forest of the Spring</string>
+		</dict>
+		<dict>
+			<key>webdata</key>
+			<string>http://www.inah.gob.mx/</string>
+			<key>lat</key>
+			<string>-103.839694</string>
+			<key>lon</key>
+			<string>20.697171</string>
+			<key>rate</key>
+			<string>4.5</string>
+			<key>phone</key>
+			<string>52 33 3668 1600</string>
+			<key>address</key>
+			<string>Carretera Estatal # 604 Guadalajara-San Marcos km 56, Gral. Lucio Blanco, 46762 Teuchitlán, Jalisco</string>
+			<key>name</key>
+			<string>Ruins of Teuchitlan</string>
+		</dict>
+	</array>
+</dict>
+</plist>

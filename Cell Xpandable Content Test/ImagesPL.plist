@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Zoologico Guadalajara</key>
+	<string>ZG.jpg</string>
+	<key>Villa Ganz</key>
+	<string>VG.jpg</string>
+	<key>Victoria Ejecutivo Guadalajara</key>
+	<string>VEG.jpg</string>
+	<key>Tres &amp; More</key>
+	<string>T&amp;M.jpg</string>
+	<key>The Westin Guadalajara</key>
+	<string>TWG.jpg</string>
+	<key>Teatro Degollado</key>
+	<string>TD.jpg</string>
+	<key>Suehiro</key>
+	<string>Suehiro.jpg</string>
+	<key>Sagrantino</key>
+	<string>Sagrantino.jpg</string>
+	<key>Ruins of Teuchitlan</key>
+	<string>RT.jpg</string>
+	<key>Ramada Encore Guadalajara</key>
+	<string>REG.jpg</string>
+	<key>Pig&apos;s Pearls</key>
+	<string>PP.jpg</string>
+	<key>NH Guadalajara</key>
+	<string>NHG.jpg</string>
+	<key>Lula Bistro</key>
+	<string>LB.jpg</string>
+	<key>La Tequila</key>
+	<string>LT.jpg</string>
+	<key>La Mansion del Sol</key>
+	<string>LMS.jpg</string>
+	<key>La Fonda de la Noche</key>
+	<string>LFN.jpg</string>
+	<key>La Artesanal</key>
+	<string>LA.jpg</string>
+	<key>Instituto Cultural Cabanas</key>
+	<string>ICC.jpg</string>
+	<key>Guachimontones Pyramids</key>
+	<string>GP.jpg</string>
+	<key>Forest of the Spring</key>
+	<string>FS.jpg</string>
+	<key>Fiesta Americana Grand Guadalajara Country Club</key>
+	<string>FAGGCC.jpg</string>
+	<key>Expiatory Temple</key>
+	<string>ET.jpg</string>
+	<key>Entre 2</key>
+	<string>E2.jpg</string>
+	<key>Ceviches Mariscos Pina</key>
+	<string>CMP.jpg</string>
+	<key>Catedral</key>
+	<string>Catedral.jpg</string>
+	<key>Bosque Colomos</key>
+	<string>BC.jpg</string>
+	<key>Basilica de Zapopan</key>
+	<string>BZ.jpg</string>
+	<key>Barocco - Beer, Wine, Pizza</key>
+	<string>Barocco.jpg</string>
+	<key>Anita Li</key>
+	<string>AL.jpg</string>
+	<key>Aloft Guadalajara</key>
+	<string>AG.jpg</string>
+	<key>Alariz</key>
+	<string>Alariz.jpg</string>
+	<key>Hotel Morales Historical &amp; Colonial Downtown Core</key>
+	<string>HMH&amp;CDC.jpg</string>
+	<key>Hampton Inn by Hilton Guadalajara/Expo</key>
+	<string>HIHGE.jpg</string>
+</dict>
+</plist>
